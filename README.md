@@ -14,7 +14,7 @@
 ## 交付物
 - 完整 PRD：见 `prd_japanese_word_app.pdf`
 - 可运行 APK（本地安装包）
-- 原型与实机截图：见 `screenshots/`
+- 原型与实机截图：见 `Screenshots/`
 
 ## 当前状态
 已完成 1.0–1.10 迭代，交付可运行 APK；外部用户验证与词条全量人工审核待补充。
