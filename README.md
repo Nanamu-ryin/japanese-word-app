@@ -12,7 +12,7 @@
 - 错词独立回抄队列，支持同日 / 跨日进度恢复
 
 ## 交付物
-- 完整 PRD：见 `prd_japanese_word_app.pdf`
+- 完整 PRD：见 `docs/prd_japanese_word_app.pdf`
 - 可运行 APK（本地安装包）
 - 原型与实机截图：见 `Screenshots/`
 
